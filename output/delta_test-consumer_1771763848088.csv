@@ -1,2 +1,0 @@
-operation,id,name,email,created_at,updated_at,is_deleted
-UPDATE,6,Test User 2,user2@test.com,2026-02-21T12:37:28.084866Z,2026-02-21T12:37:28.084870Z,false
