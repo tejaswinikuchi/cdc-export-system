@@ -1,0 +1,3 @@
+id,name,email,created_at,updated_at,is_deleted
+1,Test User 1,user1@test.com,2026-02-20T12:54:19.398757Z,2026-02-20T12:54:19.398825Z,false
+2,Test User 2,user2@test.com,2026-02-21T12:54:19.398859Z,2026-02-21T12:54:19.398915Z,false

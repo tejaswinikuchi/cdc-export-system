@@ -1,0 +1,4 @@
+operation,id,name,email,created_at,updated_at,is_deleted
+DELETE,3,User 3,user3@example.com,2026-01-28T08:47:03.372502Z,2026-02-22T10:49:43.154804Z,true
+INSERT,100001,Delta Insert User,delta_insert@example.com,2026-02-22T10:49:30.878782Z,2026-02-22T10:49:30.878782Z,false
+UPDATE,2,Delta Updated User,user2@example.com,2026-01-30T16:57:18.178876Z,2026-02-22T10:49:36.962327Z,false
